@@ -1,3 +1,4 @@
+# All Rights reserved
 # Analysze bird counts
 
 Read data file
