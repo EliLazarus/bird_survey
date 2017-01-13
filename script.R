@@ -5,7 +5,7 @@ Read data file
 
 Run analysis
 
-Save table with bold header, here is the conflict I want
+Save A table with bold header, here is the conflict I want
 
 Make small figure, thick red line
 
